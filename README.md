@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m a high school student at Colorado Academy with a strong interest in data science, sports analytics, and statistics.
+
 - 🔭 I’m currently working on Premier League Match Outcome Modeling
 - 🌱 I’m currently learning Data Science with Python
 - 📫 How to reach me: Email, Discord
