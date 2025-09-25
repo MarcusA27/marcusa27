@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Premier League Match Outcome Modeling
+- 🌱 I’m currently learning Data Science with Python
+- 📫 How to reach me: Email, Discord
+
+
 <!--
 **MarcusA27/marcusa27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
