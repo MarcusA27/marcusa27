@@ -1,9 +1,9 @@
 ## Wsg World 👋
 
-I’m a high school student at Colorado Academy with interest in data science and sports analytics.
+High school student at Colorado Academy with interest in data science and sports analytics.
 
 - 🔭 I’m currently working on Premier League Match Outcome Modeling
-- 🌱 I’m currently learning Data Science with Python
+- 🌱 I’m currently learning Data Science with Python & Algorithms 
 - 📫 How to reach me: Email
 
 
