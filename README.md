@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 I’m a high school student at Colorado Academy with a strong interest in data science, sports analytics, and statistics.
 
