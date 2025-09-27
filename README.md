@@ -1,10 +1,9 @@
-## Wsg World 👋
+## Marcus A
 
 High school student at Colorado Academy with interest in data science and sports analytics.
 
-- 🔭 I’m currently working on Premier League Match Outcome Modeling
-- 🌱 I’m currently learning Data Science with Python & Algorithms 
-- 📫 How to reach me: Email
+- 🔭 I’m currently working on Random Projects
+- 🌱 I’m currently learning Data Science 
 
 
 <!--
@@ -13,6 +12,7 @@ High school student at Colorado Academy with interest in data science and sports
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- 📫 How to reach me: Email
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
