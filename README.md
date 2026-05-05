@@ -1,6 +1,6 @@
 ## Marcus A
 
-High school student at Colorado Academy with interest in data science and sports analytics.
+High school student at Colorado Academy with interest in data science and AI.
 
 - 🔭 I’m currently working on Random Projects
 - 🌱 I’m currently learning Data Science 
